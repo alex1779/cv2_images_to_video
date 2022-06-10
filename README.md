@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ## For running
 
 When you done to install the requirements.
-you must put in console something like this:
+you must put in console as example below:
 
 ```
 python main.py -i input/ -o output/example.mp4 -fps 30

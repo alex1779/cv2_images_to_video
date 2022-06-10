@@ -24,7 +24,7 @@ python main.py -i input/ -o output/example.mp4 -fps 30
 
 # note that:
 
-	-i   #is the path folder to your image	
+	-i   #is the input path folder to your images	
 	-o   #is the full path to your video with format .mp4 
 	-fps # is the number of frames per minute
 
